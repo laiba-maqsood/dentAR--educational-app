@@ -78,7 +78,7 @@ and CC0 licenses.
 
 ## Author
 
-Laiba Maqsood — Department of Computer Science
+Laiba Maqsood, Department of Computer Science
 
 ## License
 
