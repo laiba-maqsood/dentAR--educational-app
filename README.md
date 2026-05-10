@@ -1,4 +1,4 @@
-# DentAR — AR-Enhanced Dental Education Platform
+# DentAR: AR-Enhanced Dental Education Platform
 
 A cross-platform mobile learning application for dental students that combines
 interactive 3D dental models, augmented reality (AR) placement, AI-generated
@@ -8,8 +8,8 @@ quizzes, and an AI tutoring chatbot.
 
 ### Student
 - Login & registration with name and roll number
-- Study Topics — browse all faculty-uploaded materials (PDF, PPT, video, audio)
-- 3D / AR Viewer — interactive 3D dental anatomy models with anatomical hotspots
+- Study Topics  browse all faculty-uploaded materials (PDF, PPT, video, audio)
+- 3D / AR Viewer  interactive 3D dental anatomy models with anatomical hotspots
 - AR-in-room placement using Google Scene Viewer (Android)
 - AI Chatbot (DentBot) for asking dental questions
 - AI-generated quizzes (MCQ and True/False)
