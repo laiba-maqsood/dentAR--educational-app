@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "DentAR",
+    "slug": "dentar",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "packagerOpts": {
+      "assetExts": ["glb", "gltf", "bin"]
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.dentar.app"
+    },
+    
+    "plugins": [
+      "expo-web-browser"
+    ]
+  }
+}
